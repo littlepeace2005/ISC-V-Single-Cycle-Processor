@@ -2,4 +2,4 @@
 A simple implementation of a 32-bit single-cycle processor based on the RV32I instruction set, following a classic textbook datapath design.
 
 ## Architecture
-![Architecture](img/Architecture.png)
+![](img/riscv32.png)
