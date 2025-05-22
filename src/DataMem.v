@@ -14,5 +14,4 @@ module DataMem (
         if (MemWrite)
             memory[add[7:2]] = write_data;
     end
-
 endmodule
