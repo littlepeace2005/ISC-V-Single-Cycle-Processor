@@ -1,1 +1,1 @@
-# ISC-V-Single-Cycle-Processor
+# ISC-V Single-Cycle Processor
